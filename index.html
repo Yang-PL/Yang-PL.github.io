@@ -173,7 +173,7 @@
               <span class="post-meta-item-text">Posted on</span>
               
 
-              <time title="Created: 2022-11-04 21:23:20 / Modified: 21:24:33" itemprop="dateCreated datePublished" datetime="2022-11-04T21:23:20+08:00">2022-11-04</time>
+              <time title="Created: 2022-11-04 21:23:20 / Modified: 22:49:35" itemprop="dateCreated datePublished" datetime="2022-11-04T21:23:20+08:00">2022-11-04</time>
             </span>
 
           
@@ -187,7 +187,17 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <p>#灵感来源<br>这个工作，当初主要是看了法国华为研究所David Gebert课题组的一系列工作所产生的idea。将环境信息和通信信息融合，使得物理地图和无线电地图构建二者同时受益。</p>
+          <h1 id="灵感来源"><a href="#灵感来源" class="headerlink" title="灵感来源"></a>灵感来源</h1><p>这个工作，当初主要是看了法国华为研究所David Gebert课题组的一系列工作所产生的idea。</p>
+<h4 id="Paper"><a href="#Paper" class="headerlink" title="Paper:"></a>Paper:</h4><p>1.<a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/abstract/document/9500705" title="Radio and Depth Fusion">Map Reconstruction in UAV Networks via Fusion of Radio and Depth Measurements</a><br>2.<a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/abstract/document/8254657" title="3D map Reconstruction based on Radio Measurement">3D City Map Reconstruction from UAV-based Radio<br>Measurements</a></p>
+<p>将环境信息和通信信息融合，使得物理地图和无线电地图构建二者同时受益。<br>区别于上述的第一篇文献提出的概率模型融合物理地图和无线电地图。</p>
+<p>也不知道这篇文章最后能不能接收，我一直都抱有悲观态度，因为我觉得我的ICC这篇工作，在实际场景下根本不好使，这也是现在通信领域论文的一个常见的问题。<br>从几十年前开始，MIMO被提出，就有无线通信物理层大牛认为物理层已死，物理层自MIMO以来，有意义的理论上的大的突破已经很少，几乎没有，近几年比较前沿的正交时频空调制(OTFS）算一个。<br>所以，自从自己保研尘埃落定，研究生的研究方向是通信物理层的时候，我一度很抑郁(尽管我的导师是无人机通信领域大牛)。</p>
+<ol>
+<li>一来是我发现我其实并不喜欢通信物理层这种的数学表现形式(表示对优化问题求解感到疲劳)</li>
+<li>二来是无线通信物理层的研究很难做出实质性的进展，发论文，包括SCI顶刊很多也很难有实质性的意义，这样让我感到我未来如果就做通信的理论性工作或许于人类，于这个行业没有任何作用，我获得不到成就感。</li>
+<li>三来我近期发现我的兴趣点或许在机器人学,SLAM这一类问题，我对SLAM这类的概率表现形式很感兴趣。</li>
+<li>四来通信在就业时并不好，属于中规中矩。</li>
+</ol>
+<h2 id="近期发现的一点点出路"><a href="#近期发现的一点点出路" class="headerlink" title="近期发现的一点点出路"></a>近期发现的一点点出路</h2><p>在通信的ISAC这个小方向的领域中，对SLAM的讨论越来越多，以往考虑的主要是将WIFI融合进SLAM，提升定位的性能，而建图和感知主要是通过Lidar和Camera来做。<br>现在越来越多考虑SLAM来提升通信性能，估计散射体的位置，以得到更好的信道估计，或者使用纯通信毫米波信号来进行建图。通信SLAM也是环境感知通信的一个方向的考虑。<br>所以最近的一次组会汇报(It is the first report in my graduate life)，我想要调研一些使用通信信号来做SLAM的相关工作。很多工作将其称为Channel-SLAM, 主要是利用了一个虚拟锚点的概念，实质上也是增强定位的性能。<br>Positioning: <a target="_blank" rel="noopener" href="https://oparu.uni-ulm.de/xmlui/handle/123456789/10248" title="A phd thesis for Channel-SLAM">Channel-SLAM: multipath assisted positioning</a><br>Mapping: <a href="">Leveraging mmWave Imaging and Communications<br>for Simultaneous Localization and Mapping</a></p>
 
       
     </div>
