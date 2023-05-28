@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Yang Yuhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : " Master student at Southeast University "
+  location         : "Southeast University, in Nanjing,China"
+  url              : "https://zsb.seu.edu.cn/"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
