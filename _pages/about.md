@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<\font color =red> **Msc student** <\font>
+<font color =red> **Msc student** </font>
 
 **School of Information Science  and Engineering**,
 **Southeast University**
