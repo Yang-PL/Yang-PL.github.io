@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yang Yuhang"
   avatar           : "Yangyuhang.jpg"
-  bio              : " Master student, National Mobile Communications Research Laboratory, Southeast University "
-  location         : "Nanjing,China"          #"Southeast University, in Nanjing,China"
+  bio              : " Master student,          National Mobile Communications Research Laboratory "
+  location         : "Southeast University, Nanjing, China"          #"Southeast University, in Nanjing,China"
   employer         :
   pubmed           : "https://zsb.seu.edu.cn/" #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
