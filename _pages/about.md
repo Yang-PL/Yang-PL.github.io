@@ -29,7 +29,8 @@ Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Awards
 ======
-National Sc
+China **National Scholarship**(**3%**), 2020
+First-class people scholarship in Harbin Insititute of Technology(Two times)
 
 
 Recent Activity
