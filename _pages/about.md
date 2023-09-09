@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " "
+title: " Yang's homepage "
 excerpt: "About me"
 author_profile: True
 redirect_from: 
