@@ -11,15 +11,14 @@ redirect_from:
 $\color{#2F3030}{ **Msc student** }$
 
 
-**School of Information Science  and Engineering**
-
+**School of Information Science  and Engineering**,
 **Southeast University**
 
-Nanjing,China
+**Nanjing,China**
 
 Biography
 =====
-I am a matser student of Southeast university.
+I am a second-year master student working with Prof.Yong Zeng at Southeast university(SEU). I obatined my Bachelor's degree in Communication Engeneering from Harbin institue in 2022. Currenly, my research focuses on Radio mapping and ISAC.
 
 Education experience
 ======
