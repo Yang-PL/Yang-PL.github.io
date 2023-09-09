@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yang yuhang's homepage"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
