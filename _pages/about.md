@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<font size=10><font color="blue"> *Msc student* </font></font>
+<font size=20> **Msc student** </font>
 
 
 
