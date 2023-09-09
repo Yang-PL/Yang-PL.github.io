@@ -5,8 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+Paper
+=====
+
+
+
 Patent
 =====
+
+
 
 Book
 =====
