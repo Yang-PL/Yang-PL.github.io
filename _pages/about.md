@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<font size=20> **Msc student** </font>
+$\color{#2F3030}{ **Msc student** }$<font size=6></font></font>
 
 
+**School of Information Science  and Engineering**
+
+**Southeast University**
+
+Nanjing,China
 
 Biography
 =====
