@@ -37,6 +37,13 @@ Second Prize in Postgraduate Mathematical Modeling(*top 13%*), 2022
 
 Second Class Postgraduate Scholarship in Southeast University
 
+Skills and Hobby
+======
+Latex, Matlab, Python, Altum Designer
+
+Football, Basketboll
+
+
 Recent Activity
 ======
 I participatedin the [7th Future Network Development Conference](http://www.gfnds.com/index.php) as a volunteer on August 22-25, 2023. *A wonderful experience!*
