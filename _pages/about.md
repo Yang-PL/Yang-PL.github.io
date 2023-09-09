@@ -17,7 +17,7 @@ redirect_from:
 
 Biography
 =====
-I am a second-year master student working with [Prof. Yong Zeng]{https://blog.csdn.net/qq_45719856/article/details/106445156} at Southeast university(SEU). I obatined my Bachelor's degree in Communication Engeneering from Harbin institue in 2022. Currenly, my research focuses on Radio mapping, Robotics for ISAC.
+I am a second-year master student working with [Prof. Yong Zeng]{https://sites.google.com/site/ze0003ng/} at Southeast university(SEU). I obatined my Bachelor's degree in Communication Engeneering from Harbin institue in 2022. Currenly, my research focuses on Radio mapping, Robotics for ISAC.
 
 Education experience
 ======
