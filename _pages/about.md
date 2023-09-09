@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " "
+title: "的撒 "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
