@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Yang Yuhang' site!"# / Site Title"
+title                    : "Welcome to Yang Yuhang' Site!"# / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
