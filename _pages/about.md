@@ -15,6 +15,15 @@ I am a matser student of Southeast university.
 
 Education experience
 ======
+B.S. in Communication Engineering, Harbin Institute of Technology, 2018-2022
+
+M.S. in Communication Engineering, Southeast University, 2025(expected)
+
+Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+Awards
+======
+National Sc
 
 
 Recent Activity
