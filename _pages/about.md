@@ -25,7 +25,7 @@ B.S. in Communication Engineering, Harbin Institute of Technology, 2018-2022
 
 M.S. in Communication Engineering, Southeast University, 2025(expected)
 
-Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<!-- Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Awards
 ======
@@ -35,7 +35,7 @@ First-class people scholarship in Harbin Insititute of Technology(Two times)
 
 Second Prize in Postgraduate Mathematical Modeling(*top 13%*), 2022
 
-
+Second Class Postgraduate Scholarship in Southeast University
 
 Recent Activity
 ======
