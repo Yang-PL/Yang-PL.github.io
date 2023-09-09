@@ -39,6 +39,7 @@ Second Class Postgraduate Scholarship in Southeast University
 
 Recent Activity
 ======
+I participatedin the [7th Future Network Development Conference](http://www.gfnds.com/index.php) as a volunteer on August 22-25, 2023. *A wonderful experience!*
 
 
 
