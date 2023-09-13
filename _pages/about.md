@@ -46,7 +46,10 @@ Football, Basketboll
 
 Recent Activity
 ======
-I participatedin the [7th Future Network Development Conference](http://www.gfnds.com/index.php) as a volunteer on August 22-25, 2023. *A wonderful experience!*
+I participate in the [7th Future Network Development Conference](http://www.gfnds.com/index.php) as a volunteer on August 22-25, 2023. *A wonderful experience!*
+
+As a volunteer, I participated in the reporting of the new graduate of Southeast University on September 13,2023. *It's so meaningful and happy for me to take the volunteer work.*
+
 
 
 
