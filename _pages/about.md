@@ -24,7 +24,7 @@ Awards
 ======
 China **National Scholarship**(*top 3%*), 2020
 
-First-class people scholarship in Harbin Insititute of Technology(Two times)
+First-class people scholarship in Harbin Insititute of Technology(*Two times*)
 
 Second Prize in Postgraduate Mathematical Modeling(*top 13%*), 2022
 
@@ -37,4 +37,6 @@ Second Class Postgraduate Scholarship in Southeast University
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+If you want to know more, please send email to 220220798@seu.edu.cn.
+
+
