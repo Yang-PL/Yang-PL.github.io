@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Communication Engineering, Harbin Institute of Technology, 2018-2022
 * M.S. in Communication Engineering, Southeast University, 2025(expected)
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Statistical, xxx University, 2029 (expected)
 
 Work experience
 ======
