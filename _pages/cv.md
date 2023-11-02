@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+
+**School of Information Science  and Engineering**,
+**Southeast University**
+
+**Nanjing,China**
+
 Education
 ======
 * B.S. in Communication Engineering, Harbin Institute of Technology, 2018-2022
@@ -27,14 +35,19 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+
+
+
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Altum Designer
+* Code
+  * Latex
+  * Matlab
+  * Python
+* Football, Basketboll
 
 Publications
 ======
