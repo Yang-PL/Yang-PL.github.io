@@ -84,10 +84,10 @@ author:
   avatar           : "Yangyuhang.jpg"
   bio              : " Master student, National Mobile Communications Research Laboratory "
   location         : "Southeast University, Nanjing, China"          #"Southeast University, in Nanjing,China"
-  employer         :
-  pubmed           : "https://zsb.seu.edu.cn/" #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : 
+  pubmed           : #"https://zsb.seu.edu.cn/" #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  "220220798@seu.edu.cn"
+  email            :  220220798@seu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "Yang-PL"
-  google_plus      :
+  google_plus      : 
   keybase          : 
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
@@ -112,9 +112,10 @@ author:
   twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
-  xing             : "weixin"
+  xing             : 
   youtube          :
   wikipedia        :
+  weixin           : weixin
 
 
 # Reading Files
