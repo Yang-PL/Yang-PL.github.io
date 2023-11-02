@@ -37,6 +37,6 @@ Second Class Postgraduate Scholarship in Southeast University
 
 For more info
 ------
-If you want to know more, please send email to 220220798@seu.edu.cn.
+If you want to know more, please send email to [220220798@seu.edu.cn]() 
 
 
