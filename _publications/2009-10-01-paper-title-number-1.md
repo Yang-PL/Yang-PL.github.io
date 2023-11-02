@@ -1,6 +1,6 @@
 ---
 title: "Simultaneous Radio and Physical Mapping
-for Cellular-Connected UAV by Fusing
+for Cellular-Connected UAV by Fusin
 Radio and Sensing Data"
 collection: Conference
 permalink: /publication/2009-10-01-paper-title-number-1
