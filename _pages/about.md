@@ -10,7 +10,10 @@ redirect_from:
 
 Biography
 =====
-I am a second-year master student working with [Prof. Yong Zeng](https://sites.google.com/site/ze0003ng/) at [Southeast university(SEU)](https://www.seu.edu.cn/). I ranked 3rd in the GPA in the department of communication engineering and obatined my Bachelor's degree in Communication Engeneering from [Harbin institue of Technology](http://www.hit.edu.cn/) in 2022. Currenly, my research focuses on Radio Mapping, Robotics For ISAC, and Statistical Inference.
+I am a second-year master student working with [Prof. Yong Zeng](https://sites.google.com/site/ze0003ng/) at [Southeast university(SEU)](https://www.seu.edu.cn/). I ranked 3rd in the GPA in the department of communication engineering and obatined my Bachelor's degree in Communication Engeneering from [Harbin institue of Technology](http://www.hit.edu.cn/) in 2022. Currenly, my research focuses on:
+* Radio Mapping
+* Robotics For ISAC
+* Statistical Inference
 
 Education experience
 ======
@@ -20,7 +23,7 @@ M.S. in Communication Engineering, Southeast University, 2025 (expected)
 
 <!-- Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Awards
+<!-- Awards
 ======
 China **National Scholarship** (*top 3%*), 2020
 
@@ -28,7 +31,7 @@ First-class people scholarship in Harbin Insititute of Technology (*Two times*)
 
 Second Prize in Postgraduate Mathematical Modeling (*top 13%*), 2022
 
-Second Class Postgraduate Scholarship in Southeast University
+Second Class Postgraduate Scholarship in Southeast University -->
 
 
 
