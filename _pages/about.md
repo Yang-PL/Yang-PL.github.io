@@ -17,7 +17,7 @@ Research Interests
 * Radio Mapping
 * Robotics For ISAC
 * Statistical Inference
-Currenly, my research focuses on Radio mapping, especially mapping algorithms and performance analysis.
+Currently, my research focuses on Radio mapping, especially mapping algorithms and performance analysis.
 
 Education experience
 ======
