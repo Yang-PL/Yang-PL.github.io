@@ -14,7 +14,7 @@ redirect_from:
 
 
 
-**School of Information Science  and Engineering**,
+<!-- **School of Information Science  and Engineering**,
 **Southeast University**
 
 **Nanjing,China**
@@ -71,4 +71,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
