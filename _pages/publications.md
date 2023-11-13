@@ -10,8 +10,8 @@ author_profile: true
 ## Conference
 * [Simultaneous Radio and Physical Mapping
 for Cellular-Connected UAV by Fusin
-Radio and Sensing Data]\(..//files/a238-yang%20final.pdf)
-  **Yuhang Yang**, Xiaoli Xu, Zeng Yong*. [ICC 2023]
+Radio and Sensing Data](..//files/a238-yang%20final.pdf)\
+  **Yuhang Yang**, Xiaoli Xu, Zeng Yong*. ICC 2023
 
 ## Journal
 * Up to now, my journal paper is still being revised, so stay tuned.
