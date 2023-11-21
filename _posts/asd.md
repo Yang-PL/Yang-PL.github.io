@@ -1,14 +1,5 @@
 ---
 title: 'First-Order Method for Bilevel Optimization under PL condition'
-toc: true
-excerpt_separator: <!--more-->
-tags: 		
-  - 优化
-  - 双层优化
-
----
----
-title: 'First-Order Method for Bilevel Optimization under PL condition'
 date: 2023-05-14
 permalink: /posts/2023/11/blog-post-1/
 tags:
