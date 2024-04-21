@@ -9,6 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 You can see my CV in this [page](../files/cv.pdf).
+The Chinese version is [there](../files/cvchinese.pdf).
 <!-- <iframe src="/files/paper1" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
 
 
