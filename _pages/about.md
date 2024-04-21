@@ -15,11 +15,11 @@ I am a second-year master student working with [Prof. Yong Zeng](https://sites.g
 
 Research Interests
 =====
-* Radio Mapping
-* Robotics For ISAC
+* Channel knowledge mapping
+* ISAC for channnel knowledge map
 * Statistical Inference
 
-Currently, my research focuses on Radio mapping, especially mapping algorithms and performance analysis.
+Currently, my research focuses on channel knowledge mapping, especially mapping algorithms and performance analysis.
 
 Education experience
 ======
