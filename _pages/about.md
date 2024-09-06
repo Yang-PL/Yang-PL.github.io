@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 =====
-I am a second-year master student working with [Prof. Yong Zeng](https://sites.google.com/site/ze0003ng/) at [Southeast university(SEU)](https://www.seu.edu.cn/). I obatined my Bachelor's degree in Communication Engeneering from [Harbin institue of Technology](http://www.hit.edu.cn/) in 2022. 
+I am a third-year master student working with [Prof. Yong Zeng](https://sites.google.com/site/ze0003ng/) at [Southeast university(SEU)](https://www.seu.edu.cn/). I obatined my Bachelor's degree in Communication Engeneering from [Harbin institue of Technology](http://www.hit.edu.cn/) in 2022. 
 <!-- ranked 3rd in the GPA in the department of communication engineering and  -->
 
 Research Interests
