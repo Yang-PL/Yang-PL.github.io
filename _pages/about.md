@@ -15,8 +15,8 @@ I am a third-year master student working with [Prof. Yong Zeng](https://sites.go
 
 Research Interests
 =====
+* ISAC for Robotics
 * Channel knowledge mapping
-* ISAC for channnel knowledge map
 * Statistical Inference
 
 Currently, my research focuses on channel knowledge mapping, especially mapping algorithms and performance analysis.
