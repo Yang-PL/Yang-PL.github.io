@@ -8,10 +8,9 @@ redirect_from:
 ---
 
 <!-- {% include base_path %} -->
-You can see my CV in this [page](../files/cv.pdf).\
-The Chinese version is [there](../files/cvchinese.pdf).\
-[My undergraduate transcripts](../files/Udgrades)\
-[My Masters Transcript](../files/Msgrades)
+[The Chinese version of CV](../files/cvchinese.pdf).\
+[My Undergraduate Transcripts](../files/Udgrades.pdf)\
+[My Masters Transcripts](../files/Msgrades.pdf)
 <!-- <iframe src="/files/paper1" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
 
 
