@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- {% include base_path %} -->
-[The Chinese version of CV](../files/cvchinese.pdf).\
+[The Chinese Version of CV](../files/cvchinese.pdf).\
 [My Undergraduate Transcripts](../files/Udgrades.pdf)\
 [My Masters Transcripts](../files/Msgrades.pdf)
 <!-- <iframe src="/files/paper1" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
